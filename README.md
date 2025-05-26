@@ -36,6 +36,8 @@ Al finalizar el análisis, se presentará un informe visual y técnico que permi
 
 Este proyecto simula una situación real del mundo empresarial donde el análisis de datos se convierte en una herramienta esencial para la toma de decisiones estratégicas.
 
+El análisis final y todas las las conclusiones se encuentran en el archivo Conclusiones.ipynb
+
 ## 🔧 Tecnologías Utilizadas 
 
 <div align="center">
