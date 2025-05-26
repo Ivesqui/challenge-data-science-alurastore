@@ -36,16 +36,16 @@ Al finalizar el análisis, se presentará un informe visual y técnico que permi
 
 Este proyecto simula una situación real del mundo empresarial donde el análisis de datos se convierte en una herramienta esencial para la toma de decisiones estratégicas.
 
-# 🔧 Tecnologías Utilizadas 
+## 🔧 Tecnologías Utilizadas 
 
 <div align="center">
 	<code><a href="https://seaborn.pydata.org/index.html" target="_blank"><img width="50" src="img/seaborn.svg" alt="Seaborn" title="Seaborn"/></a></code>
-	<code><a href="https://www.python.org" target="_blank"><img width="50" src="img/pythonlogo.png" alt="Python" title="Python"/></a></code>
-	<code><a href="https://pandas.pydata.org" target="_blank"><img width="50" src="img/pandas.png" alt="Pandas" title="Pandas"/></a></code>
+	<code><a href="https://www.python.org" target="_blank"><img width="50" src="img/pythonlogo.svg" alt="Python" title="Python"/></a></code>
+	<code><a href="https://pandas.pydata.org" target="_blank"><img width="50" src="img/pandas.svg" alt="Pandas" title="Pandas"/></a></code>
 	<code><a href="https://matplotlib.org" target="_blank"><img width="50" src="img/matplotlib.png" alt="Matplotlib" title="Matplotlib"/></a></code>
  </div>
 
-# 👤 Acerca De 
+## 👤 Acerca De 
 
 Soy Christian Estupiñan, un joven desarrollador Jr. comprometido con el aprendizaje continuo y con la meta de convertirme en desarrollador full-stack, emprendiendo una aventura nueva esta vez en la ciencia de datos.
 
