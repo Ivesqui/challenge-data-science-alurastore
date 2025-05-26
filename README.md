@@ -1,3 +1,6 @@
+
+<div align=center><img src="img/0cbae998-197d-4fc8-ac13-5d12d560e624.webp" width="150"></div>
+
 # challenge-data-science-alurastore
 
 Hoy te presento el desafío Alura Store, análisis de ventas y rendimiento de las tiendas. El objetivo de este desafío es ayudar al señor Juan a decidir qué tienda debe vender para invertir en un nuevo negocio. Para ello, evaluaremos cuál de estas cuatro tiendas tiene un desempeño menor, permitiendo al señor Juan tomar la decisión de cuál de estas cuatro tiendas debe vender para invertir en un nuevo negocio.
@@ -32,4 +35,17 @@ Todos los datos provienen de un repositorio en GitHub proporcionado por el equip
 Al finalizar el análisis, se presentará un informe visual y técnico que permitirá determinar cuál de las cuatro tiendas tiene menor rendimiento general y debería considerarse para su venta.
 
 Este proyecto simula una situación real del mundo empresarial donde el análisis de datos se convierte en una herramienta esencial para la toma de decisiones estratégicas.
+
+# 🔧 Tecnologías Utilizadas 
+
+<div align="center">
+	<code><a href="https://seaborn.pydata.org/index.html" target="_blank"><img width="50" src="img/seaborn.svg" alt="Seaborn" title="Seaborn"/></a></code>
+	<code><a href="https://www.python.org" target="_blank"><img width="50" src="img/pythonlogo.png" alt="Python" title="Python"/></a></code>
+	<code><a href="https://pandas.pydata.org" target="_blank"><img width="50" src="img/pandas.png" alt="Pandas" title="Pandas"/></a></code>
+	<code><a href="https://matplotlib.org" target="_blank"><img width="50" src="img/matplotlib.png" alt="Matplotlib" title="Matplotlib"/></a></code>
+ </div>
+
+# 👤 Acerca De 
+
+Soy Christian Estupiñan, un joven desarrollador Jr. comprometido con el aprendizaje continuo y con la meta de convertirme en desarrollador full-stack, emprendiendo una aventura nueva esta vez en la ciencia de datos.
 
